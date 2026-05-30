@@ -1,0 +1,9 @@
+temporary
+test.py
+outdir
+.venv
+unsloth_compiled_cache
+harmful_responses.json
+harmless_responses.json
+harmful_rejected_responses.json
+.idea

@@ -1,0 +1,8 @@
+unsloth
+unsloth-zoo
+torch>=2.9.1
+transformers>=5.7.0
+llama_cpp_python>=0.3.22  # Latest
+rich>=15.0.0
+rich-argparse>=1.8.0
+tqdm>=4.67.3
