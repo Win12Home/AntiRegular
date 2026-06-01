@@ -26,9 +26,9 @@ def generate_from_CasualLM(
             tokenizer.apply_chat_template(
                 [{"role": "user", "content": prompt}], tokenize=False
             )
-            + ""
+            + "assistant\n"
             if enable_thinking
-            else "<think>\n</think>\n"
+            else "assistant\n<think>\n</think>\n"
         ),
         return_tensors="pt",
     ).to(

@@ -13,4 +13,5 @@ python main.py -m /path/to/your/instruct/model -tm /path/to/your/uncensored/mode
 ```
 Then wait when jailbreak finished.
 ## Research Paper
-Waiting for viXra...
+viXra link: Waiting...<br>
+Paper: See `paper.pdf`
